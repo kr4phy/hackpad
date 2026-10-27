@@ -1,0 +1,4 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "kicad_care_package") (type "KiCad") (uri "C:/Users/kr4ph/Developments/hackpad/kicad_care_package/footprints.pretty") (options "") (descr ""))
+)
